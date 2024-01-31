@@ -1,0 +1,21 @@
+import java util;
+class SI
+{
+public static main(args[])
+{
+double principal;
+float rate;
+float time;
+Scanner sc=new Scanner(system);
+double principal=sc.nextint();
+double rate=sc.nextdouble();
+double time=sc.nextdouble;
+system.out.println("enter amt");
+system.out.println("enter rate");
+system.out.println("enter time");
+ float SI = (P * T * R) / 100;
+        System.out.println("Simple interest = " + SI);
+    }
+
+
+
