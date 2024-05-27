@@ -1,2 +1,2 @@
 my name = "your name"
-my age = " your age"
+my age = 
